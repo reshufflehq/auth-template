@@ -1,3 +1,5 @@
+# We have terminated the backend for this project.  Old Reshuffle projects can not longer be deployed.
+
 This is a [Reshuffle](https://reshuffle.com/) template.
 
 ## About
